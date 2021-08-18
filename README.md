@@ -18,7 +18,7 @@ La aplicacion corre en la siguiente url: `http://localhost:3000`
 4. Consultar billetera
 5. Minar criptomonedas
 6. Hacer transacciones entre billeteras
-7. perfil de usuario
+7. Perfil de usuario
 
 
 ## Admin:
