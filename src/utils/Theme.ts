@@ -1,7 +1,13 @@
-import { createTheme } from "@material-ui/core/styles";
+import { createTheme, Theme } from "@material-ui/core/styles";
 
-const theme = createTheme({
+const theme: Theme = createTheme({
   palette: {
+    primary: {
+      main: "#2196f3"
+    },
+    secondary: {
+      main: "#1de9b6"
+    },
   },
   typography: {
   },
