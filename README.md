@@ -17,15 +17,15 @@ La aplicacion corre en la siguiente url: `http://localhost:3000`
 
 ## Requerimientos basico, cliente: 
 
-1. Pagina de inicio ❌
-2. Login ❌
-3. Ver bloques generados en la blockchain ✔️
-4. Dashboard de transacciones ❌
-5. Consultar billetera ❌
-6. Minar bloque ❌
-7. Hacer transacciones entre billeteras ❌
-8. Perfil de usuario ❌
+1. - [ ] Pagina de inicio 
+2. - [x] Ver bloques generados en la blockchain 
+3. - [ ] Login 
+4. - [ ] Dashboard de transacciones 
+5. - [ ] Consultar billetera 
+6. - [ ] Minar bloque 
+7. - [ ] Hacer transacciones entre billeteras 
+8. - [ ] Perfil de usuario 
 
 ## Admin:
-1. Consultar todos los usuarios registrados ❌
-2. Consultar todas la billeteras y sus montos ❌
+1. - [ ] Consultar todos los usuarios registrados 
+2. - [ ] Consultar todas la billeteras y sus montos 
